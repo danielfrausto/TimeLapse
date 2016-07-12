@@ -1,0 +1,10 @@
+c:\users\px\documents\visual studio 2013\Projects\TimeLapse\TimeLapse\bin\Debug\TimeLapse.exe.config
+c:\users\px\documents\visual studio 2013\Projects\TimeLapse\TimeLapse\bin\Debug\TimeLapse.exe
+c:\users\px\documents\visual studio 2013\Projects\TimeLapse\TimeLapse\bin\Debug\TimeLapse.pdb
+c:\users\px\documents\visual studio 2013\Projects\TimeLapse\TimeLapse\bin\Debug\TimeLapse.xml
+c:\users\px\documents\visual studio 2013\Projects\TimeLapse\TimeLapse\obj\Debug\TimeLapse.Form1.resources
+c:\users\px\documents\visual studio 2013\Projects\TimeLapse\TimeLapse\obj\Debug\TimeLapse.Resources.resources
+c:\users\px\documents\visual studio 2013\Projects\TimeLapse\TimeLapse\obj\Debug\TimeLapse.vbproj.GenerateResource.Cache
+c:\users\px\documents\visual studio 2013\Projects\TimeLapse\TimeLapse\obj\Debug\TimeLapse.exe
+c:\users\px\documents\visual studio 2013\Projects\TimeLapse\TimeLapse\obj\Debug\TimeLapse.xml
+c:\users\px\documents\visual studio 2013\Projects\TimeLapse\TimeLapse\obj\Debug\TimeLapse.pdb
